@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riskysh
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning NextJS
-- 📫 Mail me at mailto:realriskysh@gmail.com
+- 📫 Mail me at realriskysh@gmail.com
 - ⚡ Fun fact: I'm Funny :joy:
 
 <!---
