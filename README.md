@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riskysh
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning React
 - 📫 Mail me at realriskysh@gmail.com
 - ⚡ Fun fact: I'm Funny :joy:
 
